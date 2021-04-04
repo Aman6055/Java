@@ -1,0 +1,6 @@
+1. Substring:
+  startIndex is inclusive and endIndex is exclusive.
+  
+2. valueOf
+  By the help of string valueOf() method, you can convert int to string, long to string, boolean to string, character to string, 
+  float to string, double to string, object to string and char array to string.
